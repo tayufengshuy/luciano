@@ -17,7 +17,7 @@ Luciano SB
 <td><img  width="170px" height="150"src="https://i.pinimg.com/originals/2a/a1/cb/2aa1cb32c2ea95d228a316aa4f552de8.gif"></td><br><br><br>
 <td><img  width="170px" height="150"src="https://i.pinimg.com/originals/99/9b/2b/999b2b655462a5b946baa75fad26622d.gif"></td>
 <td><img  width="170px" height="150"src="https://66.media.tumblr.com/tumblr_mc7o71oiSz1qasthro1_400.gif"></td>
-<td><img  width="170px" height="150"src="https://i.pinimg.com/originals/86/1b/32/861b320327b6a314112bb51b655cbef7.gif"></td>
+
 <td><img  width="170px" height="150"src="https://gifs.eco.br/wp-content/uploads/2022/07/gifs-de-aquario-5.gif"></td>
 <td><img  width="170px" height="150"src="https://gifs.eco.br/wp-content/uploads/2022/09/gifs-de-peixes-no-fundo-do-mar-17.gif"></td>
 <td><img  width="170px" height="150"src="https://media2.giphy.com/media/f6ybNnrdS7dzroVYaM/giphy.gif?cid=790b76114d765ea6ae4668b0905a2888e4438ffb7c160827&rid=giphy.gif&ct=g"></td>
