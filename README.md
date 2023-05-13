@@ -47,7 +47,7 @@ ECONOMICAMENTE ESTA ESTAVEL,PAIXÕES SUA FAMILIA E SEUS ESTUDOS,PARTICIPA DE FES
  ROCK, LIRICAS ERUDITAS, COUNTRY, BLUES,JASS  PARA MAIORES INFORMAÇÕES 
 E INTERECE POR LUCIANO ENTRE EM CONTATO COM ELE.</h1><br>
 
-<table><tr><td><button><a href="https://recentcoin.com/token/liebecoin-lbc-0x19d45da4"><img width="85" height="65" src="https://i.pinimg.com/564x/a3/c8/ea/a3c8eabd5b4d9a915d0d43231bd1e06f.jpg"></a></button></td>
+<table><tr><td><button><a href="https://cryptovotelist.com/coin/feng-shuy-coin"><img width="85" height="65" src="https://i.pinimg.com/564x/a3/c8/ea/a3c8eabd5b4d9a915d0d43231bd1e06f.jpg"></a></button></td>
 <td><button><a href="http://www.radio-ao-vivo.com/embed/radio-da-web-455096"><img width="85" height="65"src="https://i.pinimg.com/originals/fd/6e/db/fd6edbb0587f706756d5bae192e355b3.png"></a></button></td></tr></table>
 <hr>
 <a href="https://bscscan.com/token/0x19d45DA4C5Fb97C2ed80E48507F6bab162b54b08">
