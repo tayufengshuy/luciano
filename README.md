@@ -1,6 +1,6 @@
 # luciano
 Luciano SB
-<DOCTYPE html><head><title>pagina pessoal de luciano</title><meta charset="utf-8"><!--[if lt IE9]>
+<DOCTYPE html><head><title>pagina pessoal de luciano</title><meta charset="utf-8"><!--[if lt IE9]> 
 <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]--><style>article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section
 {display:block;}
 h1{color: blue;courier new;
