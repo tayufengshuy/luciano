@@ -1,20 +1,12 @@
 # luciano
 Luciano SB
-<DOCTYPE html><head><title>pagina pessoal de luciano</title><meta charset="utf-8"><!--[if lt IE9]> 
-<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]--><style>article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section
-{display:block;}
-h1{color: blue;courier new;
-}
-h2{color:orange;}
-h3{color:green;}
-
-h4{color:red;}</style></head><body background =" https://i.pinimg.com/originals/95/c1/d0/95c1d00ac3ecdebc2277d33d47b0d637.gif">
+<DOCTYPE html><head><body background =" https://i.pinimg.com/originals/95/c1/d0/95c1d00ac3ecdebc2277d33d47b0d637.gif"></head>
 
 
 
 <marquee><h2 color="orange">!!!welcome!Felicidades!!!!!</h2></marquee><br>
 
-<img width="70px" height="75px"src="https://i.pinimg.com/originals/ec/dc/a4/ecdca4d629fd84b6d631453dea87efce.jpg"><br>
+<p><img width="70px" height="75px" src="https://i.pinimg.com/originals/ec/dc/a4/ecdca4d629fd84b6d631453dea87efce.jpg"></p><br>
 <a href="https://relogioonline.com.br/horario/">RelógioHorario de Brasilia</a><br>
 
 <img width="170px" heith="175px" src="https://i.gifer.com/origin/1b/1b2cab842431d264ee023d93f3ac30b6.gif">
