@@ -1,6 +1,6 @@
 # luciano
 Luciano SB
-<DOCTYPE html><head><body background =" https://i.pinimg.com/originals/95/c1/d0/95c1d00ac3ecdebc2277d33d47b0d637.gif"></head>
+<DOCTYPE html><head><style><meta charset="utf-8"></style></head>
 
 
 
@@ -38,28 +38,26 @@ Luciano SB
 <pre>
 <h1>LUCIANO DOS SANTOS BORBA :
 PERFIL:43 YERS OLD
-SOLTEIRO MORA NA CIDADE DE RIO PARDO ESTADO DO RIO GRANDE DO SUL
+SOLTEIRO MORA NA CIDADE DE RIO PARDO ESTADO DO 
+RIO GRANDE DO SUL
 SUAS PREFERENCIAS ESTÃO NAS AREAS DE INFORMAÇÕES, CULINARIAS 
 FESTAS E VIAJENS PARA PARAIZOS 'PRAIAS'.
-SE SENTE PREVILEGIADO POR MORAR NA CIDADE DE RIO PARDO RIO GRANDE DO SUL PAIS BRASIL,
-ECONOMICAMENTE ESTA ESTAVEL,PAIXÕES SUA FAMILIA E SEUS ESTUDOS,PARTICIPA DE FESTAS E
- GOSTA DE CERVEJA E FESTAS NOTURNAS,ATÉ VIAJA PARA TAIS FINS, ESTILO MUSICAIS HITS POP,
- ROCK, LIRICAS ERUDITAS, COUNTRY, BLUES,JASS  PARA MAIORES INFORMAÇÕES 
+SE SENTE PREVILEGIADO POR MORAR NA CIDADE DE
+RIO PARDO RIO GRANDE DO SUL PAIS BRASIL,
+ECONOMICAMENTE ESTA ESTAVEL,PAIXÕES SUA FAMILIA E 
+SEUS ESTUDOS,PARTICIPA DE FESTAS E
+ GOSTA DE CERVEJA E FESTAS NOTURNAS,ATÉ VIAJA PARA
+ TAIS FINS, ESTILO MUSICAIS HITS POP,
+ ROCK, LIRICAS ERUDITAS, COUNTRY, BLUES,JASS  
+ PARA MAIORES INFORMAÇÕES 
 E INTERECE POR LUCIANO ENTRE EM CONTATO COM ELE.</h1><br>
 
 <table><tr><td><button><a href="https://cryptovotelist.com/coin/feng-shuy-coin"><img width="85" height="65" src="https://i.pinimg.com/564x/a3/c8/ea/a3c8eabd5b4d9a915d0d43231bd1e06f.jpg"></a></button></td>
 <td><button><a href="http://www.radio-ao-vivo.com/embed/radio-da-web-455096"><img width="85" height="65"src="https://i.pinimg.com/originals/fd/6e/db/fd6edbb0587f706756d5bae192e355b3.png"></a></button></td></tr></table>
 <hr>
-<a href="https://bscscan.com/token/0x19d45DA4C5Fb97C2ed80E48507F6bab162b54b08">
+<p><a href="https://bscscan.com/token/0x19d45DA4C5Fb97C2ed80E48507F6bab162b54b08">
 <img width="85" height="65"src="https://i.pinimg.com/564x/11/12/19/1112191c4863475bc7ba769196fde129.jpg"></a>
-<h3><adress>contact:<a href="mailto:viajante963@bol.com">viajante963@bol.com</a></adress></h3><br></hr>
-<table><tr>
-<td><iframe width="253" height="180" src="https://www.youtube.com/embed/N0H4z3efXVQ" title="Feel good music ✨ - Relaxing Work & Study music 🌴 Good vibes & Chill beats" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></td><td><iframe width="253" height="180" src="https://www.youtube.com/embed/V4EYNTyVxpU" title="Chill & Lounge music 2023 in 4K for 1 hour 🌴 Calm and Relaxing | Chill, Study, Work, Sleep, Meditate" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></td><td><iframe width="253" height="180" src="https://www.youtube.com/embed/3Iw9At2zTKE" title="Avicii, Calvin Harris, Kygo, Alok, Robin Schulz, David Guetta, Gryffin Summer Vibes Mix1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></td><td><iframe width="253" height="180" src="https://www.youtube.com/embed/9BhA5ubcRYY" title="Hawaii 4K - Relaxation Film with Soothing Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><td><iframe width="253" height="180" src="https://www.youtube.com/embed/90M-EfNaRDM" title="2 HORAS DE CONVERSAÇÃO DE INGLÊS AMERICANO | com tradução" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></td><td><iframe width="253" height="180" src="https://www.youtube.com/embed/TVcdg2YvBw0" title="Learn English Speaking Easily Quickly | English Conversation Practice Easy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></td></tr><hr>
+<h3><adress>contact:<a href="mailto:viajante963@bol.com">viajante963@bol.com</a></adress></h3><br></hr></p>
 
-
-<br><hr>
-
-                        
-    <src="https://relogioonline.com.br/horario/">                        
  
 </body></html>
