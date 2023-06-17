@@ -58,7 +58,7 @@ E INTERECE POR LUCIANO ENTRE EM CONTATO COM ELE.</h1><br>
 <p><a href="https://bscscan.com/token/0x19d45DA4C5Fb97C2ed80E48507F6bab162b54b08">
 <img width="85" height="65"src="https://i.pinimg.com/564x/11/12/19/1112191c4863475bc7ba769196fde129.jpg"></a>
 <h3><adress>contact:<a href="mailto:viajante963@bol.com">viajante963@bol.com</a></adress></h3><br></hr></p>
-<doc type html><html><head><title>Page contatos profissionais</title>
+<doc type html><html><head>
 
 <meta charset="utf-8">
 
