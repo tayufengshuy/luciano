@@ -61,12 +61,7 @@ E INTERECE POR LUCIANO ENTRE EM CONTATO COM ELE.</h1><br>
 <doc type html><html><head><title>Page contatos profissionais</title>
 
 <meta charset="utf-8">
-<style>
-h3,font{
-color:green;
-}
 
-</style>
 </head><body>
 
 
