@@ -58,6 +58,34 @@ E INTERECE POR LUCIANO ENTRE EM CONTATO COM ELE.</h1><br>
 <p><a href="https://bscscan.com/token/0x19d45DA4C5Fb97C2ed80E48507F6bab162b54b08">
 <img width="85" height="65"src="https://i.pinimg.com/564x/11/12/19/1112191c4863475bc7ba769196fde129.jpg"></a>
 <h3><adress>contact:<a href="mailto:viajante963@bol.com">viajante963@bol.com</a></adress></h3><br></hr></p>
+<doc type html><html><head><title>Page contatos profissionais</title>
 
+<meta charset="utf-8">
+<style>
+h3,font{
+color:green;
+}
+
+</style>
+</head><body>
+
+
+
+
+<table><tr><th><h3>Callcenter with luciano</h3></th></tr>
+<tr>
+<td><img border class="size-orange"width="185px" height="185px" src="https://i.pinimg.com/236x/b8/2a/a6/b82aa6a411c8e04e06f8ecded3be70c4.jpg">
+</td></tr></table><br>
+<table><tr>
+
+<td><a href=""><img width="75px" height="35px" src="https://i.pinimg.com/236x/63/9e/e2/639ee2c8efaa71ac5ed3dbda20bdaab3.jpg"></a></td>
+
+<td><a href="https://discord.com/login"><img width="75px" height="35px" src="https://i.pinimg.com/564x/e6/db/a2/e6dba2ce1a240d930b41ba798d29afcd.jpg"</a></td><br>
+<td><a href=""><img width="75px" height="35px" src="https://i.pinimg.com/564x/86/24/68/862468deb0db0acaac51c4e3d06a21ba.jpg"></a></td>
+
+</tr></table>
+<p>Discord:lucianosb#8010</p>
+
+</body></html>
  
 </body></html>
