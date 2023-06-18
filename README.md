@@ -60,7 +60,7 @@ E INTERECE POR LUCIANO ENTRE EM CONTATO COM ELE.</h1><br>
 <h3><adress>contact:<a href="mailto:viajante963@bol.com">viajante963@bol.com</a></adress></h3><br></hr></p><br>
 
 
-<h2 color="pink"><N>TOKENS</N></h2>
+<h2 bgcolor="pink"><N>TOKENS</N></h2>
 <a href="https://p-earth-o.blogspot.com/">P.EARTH.O</a><BR>
 <a href="https://tokencanadiantruckers.blogspot.com/">TOKENCANADIANTRUCKERS</a>
 <doc type html><html><head>
