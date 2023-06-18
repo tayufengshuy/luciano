@@ -78,7 +78,7 @@ E INTERECE POR LUCIANO ENTRE EM CONTATO COM ELE.</h1><br>
 </td></tr></table><br>
 <table><tr>
 
-<td><a href=""><img width="75px" height="35px" src="https://i.pinimg.com/236x/63/9e/e2/639ee2c8efaa71ac5ed3dbda20bdaab3.jpg"></a></td>
+<td><a href="https://www.whatsapp.com/download?lang=pt_BR"><img width="75px" height="35px" src="https://i.pinimg.com/236x/63/9e/e2/639ee2c8efaa71ac5ed3dbda20bdaab3.jpg"></a></td>
 
 <td><a href="https://discord.com/login"><img width="75px" height="35px" src="https://i.pinimg.com/564x/e6/db/a2/e6dba2ce1a240d930b41ba798d29afcd.jpg"</a></td><br>
 <td><a href=""><img width="75px" height="35px" src="https://i.pinimg.com/564x/86/24/68/862468deb0db0acaac51c4e3d06a21ba.jpg"></a></td>
